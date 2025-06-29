@@ -1,4 +1,4 @@
-from dist.model import TensorModel
+from model import TensorModel
 import argparse
 
 def Train():
