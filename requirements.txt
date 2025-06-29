@@ -1,0 +1,10 @@
+argparse
+pandas
+pandas-ta
+numpy
+scikit-learn
+tensorflow
+joblib
+cloudscraper
+PyQt6
+matplotlib
